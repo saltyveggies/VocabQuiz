@@ -1,0 +1,166 @@
+﻿aceite
+oil
+asiento delantero
+front seat
+asiento trasero
+rear seat
+atajo
+shortcut
+autopista
+highway
+avería
+breakdown
+bache
+pothole
+batería
+battery
+bujía
+spark plug
+cambio, marcha
+gear 
+capó
+hood
+carné de conducir
+driver's license
+carretera
+major road
+carril
+lane
+cinturón de seguridad
+seat belt
+claxon, bocina
+horn 
+coche deportivo
+sports car
+conductor
+driver
+descapotable
+convertible
+desvío
+detour
+embotellamiento, atasco
+traffic jam 
+embrague
+clutch
+espejo retrovisor
+rearview mirror
+exceso de velocidad
+speeding
+faro
+headlight
+freno
+brake
+furgoneta
+van, small truck
+gato
+jack
+grúa
+tow truck
+guantera
+glove compartment
+límite de velocidad
+speed limit
+limpiaparabrisas
+windshield wipers
+llanta pinchada
+flat tire
+maletero
+trunk
+marcha atrás
+reverse
+monovolumen
+minivan
+multa
+ticket
+palanca de cambio
+gearshift lever
+parabrisas
+windshield
+parachoques
+bumper
+peaje, cuota
+toll 
+peatón
+pedestrian
+pedal
+pedal
+pinchazo
+blowout
+póliza de seguro
+insurance policy
+repuesto
+spare tire
+Salpicadero, tablero
+dashboard
+semáforo
+traffic light
+señal de tráfico
+traffic sign
+taller de reparación
+repair shop
+todoterreno
+all-terrain vehicle
+tope
+speed bump
+tracción delantera
+front wheel drive
+ventanilla
+car window
+volante
+steering wheel
+estacionamiento, parquero
+parking lot 
+acelerar
+to speed up
+arrancar
+to start
+adelantar, pasar
+to pass 
+arreglar, reparar
+to repair 
+atropellar
+to trample, run over
+ceder el paso
+to yield (right of way)
+circular
+to move around
+chocar
+to crash
+estacionar
+to park
+frenar
+to brake
+inflar
+to inflate
+multar
+to ticket, fine
+parar
+to stop
+pitar, tocar la bocina
+to honk 
+revisar
+to inspect, service
+hora punta, hora pico
+rush hour 
+maniobra
+maneuver
+abolladura
+dent
+tránsito, tráfico
+traffic
+abrochar
+to fasten
+choque
+car crash
+rueda
+wheel
+gasolina
+gasoline
+llanta
+tire
+luces
+lights
+matrícula, placa
+license plate
+pinchar
+to get a flat tire

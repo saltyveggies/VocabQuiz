@@ -1,0 +1,198 @@
+﻿alcalde
+mayor
+anarquista
+anarchist
+asesor
+advisor
+ayuntamiento
+city hall
+bienestar
+wellbeing
+cámara
+legislative chamber
+campaña electoral
+election campaign
+candidato
+candidate
+censura
+censorship
+ciudadano
+citizen
+coalición
+coalition
+comunista
+communist
+concejal
+city council member
+conservador
+conservative
+constitución
+constitution
+consulado
+consulate
+congreso
+congress, conference
+contribuyentes
+taxpayers
+crisis
+crisis
+debate
+debate
+declaración de la renta
+income tax filing
+decreto
+decree
+democracia
+democracy
+derecho
+right
+diputado
+congressman
+dictador
+dictator
+dictadura
+dictatorship
+elecciones
+election (voting)
+embajada
+embassy
+embajador
+ambassador
+enmienda
+ammendment
+encuesta
+survey
+escándalo
+scandal
+exiliado
+exiled
+familia real
+royal family
+golpe de estado
+coup d'état
+hacienda
+treasury
+huelga
+strike
+impuesto
+tax
+indocumentado
+ilegal alien
+lema, eslógan
+slogan 
+libertad
+liberty
+líder
+leader
+liderazgo
+leadership
+mandatario
+chief executive
+manifestación
+protest demonstration
+ministro
+secretary of gov't dept.
+monarquía, corona
+monarchy 
+municipio
+municipal government
+partido político
+political party
+Portavoz, vocero
+spokesperson 
+princesa
+princess
+príncipe
+prince
+Referéndum, plebiscito
+referendum
+república
+republic
+reina
+queen
+rey
+king
+rueda de prensa
+press conference
+senador
+senator
+socialista
+socialist
+sondeo
+opinion poll
+trámite
+paperwork, processing
+trono
+throne
+urna
+ballot box, voting booth
+dimitir, renunciar
+to resign
+presentarse
+to run for office
+recaudar fondos
+to fund raise
+tener que ver con
+to have to do with
+votar (por)
+to vote (for)
+anarquismo
+anarchism
+comunismo
+communism
+socialismo
+socialism
+vitalicio
+life-long (adj.)
+explotar
+to exploit
+discurso
+speech
+asunto
+matter, issue
+política
+politics, policy
+lavado de cerebro
+brainwash
+involucrar
+to involve
+cifra
+figure, sum (numbers)
+medios de comunicación
+media
+surgir
+to arise, emerge
+suministrar
+to supply
+presupuesto
+budget, price quote
+fascismo
+fascism
+fascista
+fascist
+palabras textuales
+direct quote
+transparencia
+transparency, openness
+corrupto
+corrupt
+corrupción
+corruption
+gabinete
+cabinet
+vida cotidiana
+daily life
+conferencia
+lecture
+lectura
+reading
+derrocar
+to overthrow
+nazismo
+nazism
+nazi
+nazi
+asistencia social
+welfare
+ley
+law

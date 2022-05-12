@@ -1,0 +1,214 @@
+﻿acidez
+heartburn
+aliento
+breath
+ampolla
+blister
+antibiótico
+antibiotic
+aparato, bracket
+braces 
+asma
+asthma
+aspirina
+aspirin
+botiquín
+med. cabinet, infirmary
+caries
+cavities
+caspa
+dandruff
+catarro, resfriado
+cold 
+cicatriz
+scar, scab
+cirugía estética
+cosmetic surgery
+colesterol
+cholesterol
+daltonismo
+color blindness
+derrame cerebral
+stroke
+discapacidad
+handicap
+diarrea
+diarrhea
+dolor
+pain
+empaste
+filling (tooth)
+enfermedad
+illness
+epidemia
+epidemic
+estreñido, constipado
+constipated
+fiebre
+fever
+fobia
+phobia
+grano
+pimple
+gripe
+flu
+infarto
+heart attack
+inyección
+injection
+jarabe
+(cough) syrup
+jeringuilla, jeringa
+syringe 
+medicamento
+medicine
+moco
+snot, mucus
+moretón, moradura
+bruise
+muletas
+crutches
+obesidad
+obesity
+pastilla, píldora
+pill 
+pedo
+fart, hangover (vulgar)
+peste
+plague
+portador
+carrier, bearer
+primeros auxilios
+first aid
+preservativo, condón
+condom 
+pulmonía
+pneumonia
+pus
+puss
+quirófano
+operating room
+radiografía, placa
+x-ray 
+receta médica
+prescription
+régimen, dieta
+diet 
+regla, período
+period, menstruation 
+reposo
+rest
+resaca
+hangover
+seguro médico
+health insurance
+sobredosis
+overdose
+silla de ruedas
+wheel chair
+sueño
+sleep
+VIH/SIDA
+HIV/AIDS
+tetrapléjico
+quadriplegic
+Tirita, curita
+band-aid 
+úlcera
+ulcer
+urgencias
+emergency room
+vacuna
+vaccine
+varicela
+chickenpox
+venda
+bandage
+virus
+virus
+apestar
+to stink
+ayunar
+to fast
+cagar, hacer caca
+to defecate (vulgar) 
+desmayarse
+to faint
+doler
+to hurt (pain)
+estar a dieta, estar a régimen
+to diet 
+estornudar
+to sneeze
+guardar cama
+to stay in bed
+hincharse
+to swell
+lastimarse, lesionarse
+to get hurt, injured 
+marearse
+to feel dizzy
+mear, orinar, hacer pis
+to piss (vulgar)
+padecer
+to suffer
+picar
+to itch
+recuperarse
+to recover
+tragar
+to swallow
+toser
+to cough
+vomitar
+to vomit
+vértigo
+vertigo
+joroba
+hunchback
+roncar
+to snore
+resfriarse
+to catch a cold
+calambre
+cramp
+congestionado
+congested
+flema
+phlegm
+tirarse un pedo
+to fart (vulgar)
+grave
+serious
+leve
+minor
+bostezar
+to yawn
+discapacitado
+handicapped
+Picazón, comezón
+itching 
+flojera
+lethargy, weakness
+lesión, herida
+wound, injury 
+cobertura universal
+universal coverage
+sarpullido
+rash
+eutanasia
+euthanasia
+virus
+virus
+atragantarse
+to choke
+conmoción cerebral
+concussion
+agotado
+exhausted
+mascarilla, cubreboca
+mask 
+pandemia
+pandemic
+viruela
+smallpox

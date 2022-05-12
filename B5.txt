@@ -1,0 +1,184 @@
+﻿aduana
+customs
+aeropuerto
+airport
+alta temporada
+high season
+baja temporada
+low season
+andén
+train platform
+autobús, colectivo
+city bus 
+autocar
+charter bus
+azafata, auxiliar de vuelo
+stewardess 
+baúl
+trunk
+billete, boleto, pasaje
+ticket 
+buque
+big ship
+camarote
+ship cabin
+camión
+truck, bus (Mex.)
+control de seguridad
+security check-point
+crucero
+cruise ship
+demora, retraso
+delay 
+equipaje de mano
+carry on luggage
+equipaje
+luggage
+en el extranjero
+abroad
+ferrocarril
+railway
+frontera
+border
+gira
+tour
+helicóptero
+helicopter
+horario
+schedule
+hostal, albergue
+hostel 
+ida y vuelta
+round trip
+itinerario
+itinerary
+línea aérea, aerolínea
+airline 
+llegada
+arrival
+maleta, valija
+suitcase 
+metro, subte
+subway 
+parada
+bus stop
+pasajero
+passenger
+pasaporte
+passport
+pensión
+inn
+pista
+runway
+plano
+street map
+plaza
+reserved seat or space
+puente
+bridge
+recuerdo
+souvenir, remembrance
+reserva
+reservation
+rumbo a
+bound for
+sala de espera
+waiting room
+salida
+departure, exit
+salida de emergencia
+emergency exit
+tarjeta de embarque
+boarding pass
+teleférico, funicular
+cable car 
+tranvía
+streetcar
+tripulación
+crew
+turbulencia
+turbulence
+vagón
+train car
+vuelo
+flight
+asiento
+seat
+pasillo
+aisle
+ventanilla
+window
+alojarse, hospedarse
+to take lodging 
+apurarse, darse prisa
+to rush, hurry 
+aterrizar
+to land
+demorar
+to delay
+despegar
+to take off
+facturar, despachar
+to check in (or baggage) 
+hacer la maleta
+to pack a suitcase
+hacer un crucero
+to go on a cruise
+registrar
+to search
+nave
+ship
+objetos perdidos
+lost and found
+acercarse (a)
+to approach
+alejarse (a)
+to move away
+camino
+road, way
+sendero
+path
+experimentar
+to experience
+regatear
+to haggle, barter
+extranjero
+foreigner
+turista
+tourist
+visitante
+visitor
+ventaja
+advantage
+desventaja
+disadvantage
+muelle
+dock
+ahogar(se)
+to drown
+
+
+
+
+estrellar(se)
+to crash (a plane)
+hundirse
+to sink
+naufragar
+to shipwreck
+recorrer
+to travel around
+combustible
+fuel
+OVNI
+UFO
+alquilar
+to rent
+ir de vacaciones
+to go on vacation
+puerta de embarque
+boarding gate
+embarcar
+to board
+perder (un vuelo, tren)
+to miss (a flight, train)

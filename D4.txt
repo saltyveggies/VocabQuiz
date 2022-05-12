@@ -1,0 +1,188 @@
+﻿alpinismo
+mountain climbing
+atletismo
+track & field
+baloncesto
+basketball
+banquillo
+bleachers
+béisbol
+baseball
+boliche, bolera
+bowling 
+boxeo
+boxing
+carrera a campo traviesa
+cross country
+carrera de coches
+car race
+clavado
+diving
+culturismo
+bodybuilding
+decatlón
+decathlon
+equitación
+horseback riding
+esquí
+skiing
+esquí acuático
+water skiing
+fútbol
+soccer
+fútbol norteamericano
+football
+gimnasia
+gymnastics
+golf
+golf
+hockey sobre hielo
+ice hockey
+lucha
+wrestling
+natación
+swimming
+patinaje artístico
+figure skating
+patinaje sobre hielo
+ice skating
+salto de altura
+high jump
+salto de longitud
+long jump
+tenis
+tennis
+vólibol
+volleyball
+aficionado
+sports fan
+animadora
+cheerleader (fem.)
+árbitro
+referee, umpire
+balón
+ball (big, inflated)
+campeonato
+championship
+campo, terreno
+field 
+cancha
+court
+coche de carrera
+race car
+competición
+competition
+duelo
+duel
+empate
+tie
+entrenador
+coach, trainer (masc.)
+entrenamiento
+practice, training
+estilo libre
+freestyle
+gol
+goal
+guante
+glove
+hipódromo
+horse racetrack
+jinete
+jockey, rider
+juegos olímpicos
+olympic games
+juez de línea
+line judge
+jugador
+player
+lanzamiento
+throw, pitch
+maratón
+marathon
+monopatín
+skateboard
+palo
+bat, stick
+patada
+kick
+patines
+skates
+pelota
+ball (generic)
+piscina, alberca, pileta
+pool 
+pista
+track
+portero, arquero
+goalie 
+raqueta
+racket
+reñido
+hard-fought, tough, close
+temporada
+sports season
+torneo
+tournament
+trineo
+sled
+velódromo
+bicycle arena
+cabalgar
+to ride a horse
+derrotar
+to defeat
+emocionarse
+to get excited
+empatar
+to tie
+entrenarse
+to train
+escupir
+to spit
+hacer footing
+to jog
+lanzar
+to throw, pitch
+levantar pesas
+to lift weights
+marcar un gol
+to score a goal
+pegar
+to hit
+sudar
+to sweat
+ciclismo
+cycling
+esgrima
+fencing
+paracaidismo
+parachuting
+estirarse
+to stretch
+hockey sobre hierba
+field hockey
+copa mundial
+world cup (soccer)
+senderismo
+hiking
+equipo
+team
+gradas
+bleachers
+resultado
+result
+remo
+rowing
+tenis de mesa
+ping pong
+buceo
+scuba diving
+correr las olas, surfear
+surfing 
+portería, arco
+goal net 
+regata
+sailing competition
+navegar, hacer vela
+to sail

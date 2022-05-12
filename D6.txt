@@ -1,0 +1,202 @@
+﻿abogado
+lawyer
+acomodador
+usher
+actor
+actor
+agente inmobiliario
+real estate agent
+agricultor, granjero
+farmer 
+albañil
+bricklayer, construction worker
+ama de casa
+homemaker
+arquitecto
+architect
+artesano
+craftsman
+bailarín
+dancer (masc.)
+basurero
+trash collector
+bibliotecario
+librarian
+bombero
+fireman
+botones
+bellboy
+cajero
+cashier
+camarero, mesero
+waiter 
+campesino
+peasant
+cantante
+singer
+carnicero
+butcher
+carpintero
+carpenter
+cartero
+mailman
+cerrajero
+locksmith
+cineasta
+filmmaker
+cirujano
+surgeon
+científico
+scientist
+cocinero
+cook
+conductor, chófer
+driver 
+contador, contable
+accountant 
+criado, asistenta
+servant, maid 
+dependiente
+clerk
+diseñador
+designer
+dramaturgo
+playwright
+ejecutivo
+executive
+empleado
+employee
+escritor
+writer
+escultor
+sculptor
+farmacéutico
+pharmacist
+fontanero, plomero
+plumber 
+fotógrafo
+photographer
+funcionario
+civil servant
+gerente
+manager
+guionista
+scriptwriter
+herrero
+blacksmith
+ingeniero
+engineer
+jardinero
+gardener
+jefe, patrón
+boss 
+joyero
+jeweler
+locutor
+announcer
+marinero
+sailor
+mayordomo
+butler
+mecánico
+mechanic
+médico
+doctor
+modelo
+model
+modisto
+fashion designer
+músico
+musician
+panadero
+baker
+pastor
+shepherd
+pediatra
+pediatrician
+periodista
+journalist
+peluquero
+hairdresser
+pescador
+fisherman
+pintor
+painter
+poeta/poetisa
+poet
+portero, conserje
+doorman, bouncer 
+psiquiatra
+psychiatrist
+redactor
+editor
+reportero
+reporter
+sastre
+tailor
+técnico
+technician, repairman
+traductor
+translator
+vaquero, gaucho
+cowboy 
+vendedor ambulante
+traveling salesman
+zapatero
+shoemaker
+bufete
+law firm
+carrera
+career
+desempleo, paro
+unemployment 
+empresa
+company
+solicitud
+application
+sindicato, gremio
+union 
+socio
+business partner, member
+sueldo
+salary
+cobrar
+to collect money, get paid
+contratar
+to hire
+despedir, correr
+to fire 
+solicitar
+to apply
+actriz
+actress
+oficio
+trade
+media jornada
+part time
+camionero
+truck driver
+fisioterapeuta
+physical therapist
+obrero
+worker
+investigación y desarrollo
+research and development
+atender
+to attend to, help
+niñero
+babysitter, nanny
+entrevista
+job interview
+turno
+shift
+salario
+salary
+conseguir un trabajo
+to get a job
+llenar una solicitud
+to fill out an application
+costurera
+seamstress
+jubilarse
+to retire

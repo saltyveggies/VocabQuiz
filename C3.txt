@@ -1,0 +1,192 @@
+﻿ante, gamuza
+suede 
+acero
+steel
+algodón
+cotton
+aluminio
+aluminum
+arcilla
+clay
+arena
+sand
+asfalto
+asphalt
+barro
+mud
+bronce
+bronze
+burbuja
+bubble
+carbón
+coal
+cartón
+cardboard
+cartulina
+poster board
+cemento
+cement
+ceniza
+ash
+cera
+wax
+charol
+patent leather
+cinc
+zinc
+cobre
+copper
+cromo
+chrome
+cuarzo
+quartz
+cuero
+leather
+diamante
+diamond
+encaje
+lace
+escombros
+rubble
+esmeralda
+emerald
+estaño
+tin
+fibra de vidrio
+fiberglass
+franela
+flannel
+goma, caucho
+rubber 
+hierro
+iron
+hormigón
+concrete
+joya
+jewel
+ladrillo
+brick
+lana
+wool (money)
+lino
+linen
+madera
+wood
+marfil
+ivory
+mármol
+marble
+mimbre
+wicker
+oro
+gold
+paja
+straw
+pana
+corduroy
+piedra
+stone
+pizarra
+slate
+plástico
+plastic
+plata
+silver (money)
+platino
+platinum
+plomo
+lead
+poliéster
+polyester
+porcelana
+porcelain
+rubí
+ruby
+seda
+silk
+tejido
+weave, knitting
+tela
+cloth (money)
+terciopelo
+velvet
+tierra
+dirt, earth
+vidrio
+glass
+yeso
+plaster
+blando
+soft
+brillo
+gloss, shine
+duro
+hard
+espeso
+thick, dense
+ligero
+light (adj.)
+liso, suave
+smooth 
+lleno
+full
+pesado
+heavy
+superficie
+surface
+tamaño
+size
+vacío
+empty
+acariciar
+to caress
+emplear
+to use
+montar
+to set up, put together
+enmarcar
+to frame
+tallar
+to carve
+tocar madera
+knock on wood (for luck)
+acuarela
+watercolor
+artes gráficas
+graphic arts
+artes plásticas
+visual arts
+cerámica
+ceramics
+cuadro
+painting, picture
+diseño
+design
+escultura
+sculpture
+fotografía
+photography
+lienzo
+canvas
+marco
+frame
+naturaleza muerta, bodegón
+still life
+óleo
+oil paint
+paisaje
+landscape
+pincel
+paintbrush
+pintura
+painting
+retrato
+portrait
+cantidad
+quantity
+calidad
+quality
+bellas artes
+fine arts
+herramienta
+tool

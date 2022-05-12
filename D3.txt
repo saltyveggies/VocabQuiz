@@ -1,0 +1,168 @@
+﻿agencia de viajes
+travel agency
+bodega
+wine store, mini mart
+carnicería
+butcher shop
+centro comercial
+mall, shopping area
+consulta, consultorio
+doctor's office 
+correos
+post office
+farmacia de turno
+pharmacy on call
+ferretería
+hardware store
+floristería, florería
+flower shop
+frutería
+fruit store
+grandes almacenes
+department store
+heladería
+ice cream store
+hipermercado
+wholesale club
+joyería
+jewelry store
+juguetería
+toy store
+lavandería
+laundromat
+librería
+bookstore
+mueblería
+furniture store
+óptica
+eyeglass store
+panadería
+bakery
+papelería
+stationary store
+pastelería
+pastry shop
+peluquería
+hair salon
+pescadería
+fish market
+rascacielos
+skyscraper
+relojería
+watch store
+sastrería
+tailor shop
+tanatorio
+funeral parlor
+tienda de moda
+clothes store
+tintorería
+dry cleaner
+zapatería
+shoe store
+barrio, colonia, vecindario
+neighborhood
+cementerio, camposanto, panteón
+graveyard 
+por todas partes, por todos lados
+everywhere 
+en ningún lado, en ninguna parte
+nowhere
+servicios, WC, aseos, sanitarios, baños
+rest rooms 
+acera
+sidewalk
+al por mayor
+wholesale
+al por menor
+retail
+aldea
+village
+almacén
+warehouse
+buzón
+mailbox
+caja
+check out
+cambio
+change
+choza
+hut, cabin, lodge
+concesionario
+dealer (of a brand)
+cuadra, manzana
+city block 
+dueño, propietario
+owner 
+escalera mecánica
+escalator
+escaparate
+show window
+esquina
+street corner
+IVA
+value added tax (VAT)
+local
+storefront, premises
+mercadillo
+street market
+mostrador
+counter
+muro
+wall
+probador, vestidor
+fitting room 
+pueblo
+town
+puesto
+stand
+quiosco
+kiosk, newsstand
+recibo, tique
+receipt 
+sede
+headquarters
+sucursal
+branch
+torre
+tower
+valla, cerca
+fence 
+vitrina
+display case
+zona peatonal
+pedestrian zone
+letrero
+sign
+marca
+brand
+factura
+utility bill
+atención al cliente
+customer service
+relación calidad-precio
+value
+oferta
+special offer (without en)
+liquidación
+clearance
+dulcería, confitería
+candy store 
+devolución
+return (purchase)
+fábrica
+factory
+alcantarilla
+storm drain
+cajero automático
+ATM
+cloaca
+sewer
+valla publicitaria
+billboard
+todo el mundo
+everyone
+en cualquier lado, en cualquier parte
+anywhere 
+rebajas
+sale, discount

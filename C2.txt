@@ -1,0 +1,198 @@
+﻿adaptador
+adaptor
+adjunto
+attachment
+altavoz, parlante
+speaker
+aparato, dispositivo
+device
+aplicación
+app
+archivo
+file
+arroba
+@
+auriculares, cascos
+headphones, headset
+batería, pila
+battery 
+blog (m)
+blog
+buscador
+search engine
+buzón de voz
+voicemail
+cable
+cable, cord
+cargador
+charger
+carpeta
+folder
+clave
+pin
+computadora (LA), ordenador (ESP)
+computer 
+conexión
+connection
+contraseña
+password
+correo electrónico
+e-mail
+destinatario
+recipient
+dirección
+address
+disco duro
+hard disk
+enlace
+link
+en línea
+online
+guión bajo
+underscore
+icono
+icon
+impresora
+printer
+internet
+internet
+mando (a distancia)
+remote
+mayúscula
+upper case (letter)
+memoria, capacidad
+memory 
+mensaje
+message
+micrófono
+microphone
+minúscula
+lower case (letter)
+móvil, celular
+cell phone 
+negrita
+bold (letter)
+nombre de usuario
+username
+página, sitio
+web page 
+pantalla
+screen
+papelera
+trashcan
+perfil
+profile
+memoria extraíble, pincho
+flash drive 
+portátil
+laptop
+punto com
+.com
+ratón
+mouse
+la red
+www, internet
+servidor
+server
+tableta
+tablet
+tarjeta de memoria
+memory card
+tecla
+key
+teclado
+keyboard
+texto
+text, sms
+tipo de letra
+font
+ventanas
+windows
+virus
+virus
+WhatsApp
+WhatsApp
+wifi (m)
+Wi-Fi
+actualizar
+to update
+adjuntar
+to attach
+apagar
+to turn off
+archivar
+to file
+arrastrar
+to drag
+descargar, bajar
+to download
+borrar
+to delete, to erase
+cargar
+to charge
+recargar
+to recharge
+chatear
+to chat
+conectarse
+to connect
+copiar
+to copy
+cortar
+to cut
+desenchufar
+to unplug
+encender, prender
+to turn on 
+escanear
+to scan
+estar conectado
+to be online
+grabar
+to record
+guardar
+to save
+guglear
+to google
+hacer clic, pinchar
+to click
+iniciar sesión
+to log in
+mandar, enviar
+to send 
+mandar un texto
+to text
+navegar
+to surf the internet
+pegar
+to paste
+pulsar, presionar
+to press 
+reenviar
+to forward
+subir
+to upload
+vaciar
+to empty the trash
+copia de seguridad
+back up
+copia ciega
+bcc
+emoji
+emoji
+emoticón
+emoticon
+cartucho
+cartridge
+tinta
+ink
+desechable, descartable
+disposable 
+estropearse
+to get damaged, to break down, to ruin
+etiquetar
+to label
+informatica
+computer science
+piratería
+hacking
