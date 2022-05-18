@@ -1,4 +1,4 @@
-﻿asignatura, materia
+asignatura, materia
 course 
 aula
 classroom
@@ -80,7 +80,7 @@ matricularse
 to register (enroll)
 solicitar admisión
 to apply
-Suspender, reprobar
+suspender, reprobar
 to fail a course 
 trasnochar
 to stay up all night
@@ -136,7 +136,7 @@ maestría
 mastery, masters
 doctorado
 doctorate
-Escuela, colegio
+escuela, colegio
 school 
 autodidacta
 self-taught

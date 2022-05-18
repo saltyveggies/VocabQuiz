@@ -1,4 +1,4 @@
-﻿alcalde
+alcalde
 mayor
 anarquista
 anarchist
@@ -98,13 +98,13 @@ municipio
 municipal government
 partido político
 political party
-Portavoz, vocero
+portavoz, vocero
 spokesperson 
 princesa
 princess
 príncipe
 prince
-Referéndum, plebiscito
+referéndum, plebiscito
 referendum
 república
 republic

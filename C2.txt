@@ -1,4 +1,4 @@
-﻿adaptador
+adaptador
 adaptor
 adjunto
 attachment

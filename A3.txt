@@ -1,4 +1,4 @@
-﻿acidez
+acidez
 heartburn
 aliento
 breath
@@ -112,7 +112,7 @@ VIH/SIDA
 HIV/AIDS
 tetrapléjico
 quadriplegic
-Tirita, curita
+tirita, curita
 band-aid 
 úlcera
 ulcer
@@ -186,7 +186,7 @@ bostezar
 to yawn
 discapacitado
 handicapped
-Picazón, comezón
+picazón, comezón
 itching 
 flojera
 lethargy, weakness

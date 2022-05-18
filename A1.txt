@@ -1,4 +1,4 @@
-﻿ardilla
+ardilla
 squirrel
 cabra
 goat
@@ -162,7 +162,7 @@ rascarse
 to scratch
 águila
 eagle
-Búho, lechuza
+búho, lechuza
 owl 
 cigüeña
 stork
@@ -174,7 +174,7 @@ gaviota
 seagull
 paloma
 dove, pigeon
-Papagayo, loro
+papagayo, loro
 parrot 
 pato
 duck

@@ -1,4 +1,4 @@
-﻿aduana
+aduana
 customs
 aeropuerto
 airport
@@ -156,10 +156,6 @@ muelle
 dock
 ahogar(se)
 to drown
-
-
-
-
 estrellar(se)
 to crash (a plane)
 hundirse

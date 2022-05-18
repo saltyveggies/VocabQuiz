@@ -1,4 +1,4 @@
-﻿abanico
+abanico
 fan
 abrigo, sobretodo
 coat, overcoat 
@@ -138,7 +138,7 @@ desodorante
 deodorant
 alpargatas
 espadrilles
-Esmoquin, frac
+esmoquin, frac
 tuxedo 
 atuendo
 attire

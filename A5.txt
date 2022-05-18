@@ -1,4 +1,4 @@
-﻿aceite
+aceite
 oil
 asiento delantero
 front seat
@@ -90,7 +90,7 @@ póliza de seguro
 insurance policy
 repuesto
 spare tire
-Salpicadero, tablero
+salpicadero, tablero
 dashboard
 semáforo
 traffic light
